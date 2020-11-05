@@ -1,0 +1,30 @@
+G:\CSharp projects\Flappy\Flappy\bin\Debug\Flappy.exe.config
+G:\CSharp projects\Flappy\Flappy\bin\Debug\Flappy.exe
+G:\CSharp projects\Flappy\Flappy\bin\Debug\Flappy.pdb
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.csprojAssemblyReference.cache
+G:\CSharp projects\Flappy\Flappy\obj\Debug\MainWindow.g.cs
+G:\CSharp projects\Flappy\Flappy\obj\Debug\App.g.cs
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy_MarkupCompile.cache
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy_MarkupCompile.lref
+G:\CSharp projects\Flappy\Flappy\obj\Debug\MainWindow.baml
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.g.resources
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.cache
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.csproj.CoreCompileInputs.cache
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.exe
+G:\CSharp projects\Flappy\Flappy\obj\Debug\Flappy.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\bin\Debug\Flappy.exe.config
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\bin\Debug\Flappy.exe
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\bin\Debug\Flappy.pdb
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.csprojAssemblyReference.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\MainWindow.g.cs
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\App.g.cs
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy_MarkupCompile.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy_MarkupCompile.lref
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\MainWindow.baml
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.g.resources
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.Properties.Resources.resources
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.csproj.GenerateResource.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.csproj.CoreCompileInputs.cache
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.exe
+G:\CLEAN\STUDY\MySTUDY\C#\Flappy\Flappy\obj\Debug\Flappy.pdb

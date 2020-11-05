@@ -1,0 +1,21 @@
+﻿<Window x:Class="Flappy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Flappy"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="540" Width="320"
+        KeyDown="GameKeyDown"
+        KeyUp="GameKeyUp">
+    <Canvas x:Name="MyCanvas">
+        
+        <Image Source="resources/background-night.png" Width="312"/>
+
+        <Image x:Name="PipeOne" Tag="Pipe" Source="resources/two-pipes.png" Canvas.Left="200" Canvas.Top="-200"/>
+        <Image x:Name="PipeTwo" Tag="Pipe" Source="resources/two-pipes.png" Canvas.Left="400" Canvas.Top="-150"/>
+
+        <Image x:Name="FlappyBird" Source="resources/bluebird-upflap.png" Tag="FlappyBird" Canvas.Left="38" Canvas.Top="159"/>
+        <Label x:Name="gameScore" FontSize="32" FontWeight="Bold" Content="0" Background="DarkBlue" Foreground="DarkGray" Margin="160, 30"/>
+    </Canvas>
+</Window>
